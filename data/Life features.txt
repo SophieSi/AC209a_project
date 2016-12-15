@@ -1,7 +1,0 @@
-CMI:87 F49 How often drinks alcohol
-CMI:95 F75a) CHECK: F64 - Has driving licence
-CMI:91 F64 Holds licences to drive/ride motor vehicles
-CMI:90 F61 Regular sport/exercise/etc
-WDYT:19,I8 Satisfaction with way life has turned out so far
-WDYT:19,I8 Satisfaction with way life has turned out so far
-WDYT:18,I5 Never get what I want of life/Usually do WDYT:18,I1 Happiness - all things considered

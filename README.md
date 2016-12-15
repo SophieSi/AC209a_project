@@ -1,10 +1,4 @@
 # AC209a_project
-AC 209a final project on seizure prediction
+This is the github hosting the final project of Epilepsy prediction team. Members including Xu Si, James Zatsiorsky and Hung-Yi Wu. 
 
-1958 National Child Development Study
-
-http://www.cls.ioe.ac.uk/page.aspx?&sitesectionid=724&sitesectiontitle=National+Child+Development+Study
-
-Where to download data?
-
-http://stats.ukdataservice.ac.uk/
+Relevant iPython notebooks and datasets are located in the directory **Final Version**.
