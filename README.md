@@ -1,7 +1,7 @@
 # AC209a_project
 AC 209a final project on seizure prediction
 
-**iPython notebooks are located within the data/ directory in the repository.**
+**Relevant Files for the Final Submission are located in the "Final Version" Directory**
 
 1958 National Child Development Study
 
