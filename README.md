@@ -1,5 +1,5 @@
 # Epilepsy Prediction 
-This is the final project of Epilepsy Prediction team. Members including Xu Si, James Zatsiorsky and Hung-Yi Wu. 
+#### This is the final project on Epilepsy Prediction. Members including Xu Si, James Zatsiorsky and Hung-Yi Wu. 
 
 Our project consists of three stories.
 - Life of epilepsy patients. 
