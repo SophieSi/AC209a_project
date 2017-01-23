@@ -7,6 +7,6 @@ Our project consists of three stories.
 - Seizure forecast using EEG.
 
 Directions to explore our stories:
-- Relevant iPython notebooks and datasets are located in the directory **Final Version**.
+- Relevant iPython notebooks and datasets are located in the directory **/Final Version**.
 - An overall storytelling poster is under the folder **/Poster**.
 - A final website of complete stories and key findings are presented [**here**](http://epilepsy209.weebly.com/).
